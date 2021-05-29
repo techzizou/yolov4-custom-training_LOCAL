@@ -1,4 +1,4 @@
-# Train a custom YOLOv4 object detector 
+# Train a custom YOLOv4 object detector on WINDOWS
 
 ![](yolov4-mask.gif)
 
@@ -18,17 +18,14 @@ This dataset has mostly close-up images (around 1300) and very few long-shot ima
 
 
 
-## My Colab notebook for training a custom Yolov4 detector
-
-https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing
 
 ## My Medium article on this
 
-https://techzizou007.medium.com/train-a-custom-yolov4-object-detector-using-google-colab-61a659d4868
+
 
 ## Watch my YouTube Video on this
 
-https://youtu.be/SCAgktactKE
+
 
 
 # CREDITS 
