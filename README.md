@@ -18,13 +18,15 @@ This dataset has mostly close-up images (around 1300) and very few long-shot ima
 
 
 
-
 ## My Medium article on this
+
+https://medium.com/geekculture/train-a-custom-yolov4-object-detector-on-windows-fe5332b0ca95
 
 
 
 ## Watch my YouTube Video on this
 
+https://www.youtube.com/watch?v=kCZUj6Xy6nM&t=1925s
 
 
 
